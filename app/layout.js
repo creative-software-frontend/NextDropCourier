@@ -12,7 +12,7 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: 'ZFast Courier ',
+  title: 'Next Drop Courier ',
   description: 'The dashboard interface',
 };
 
